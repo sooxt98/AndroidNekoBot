@@ -1,4 +1,4 @@
-# KonineBot
+# AndroidNekoBot
 
 > Clone from Android Easter Egg with Material Cat! , telegram bot game written in Nodejs
 
@@ -7,5 +7,4 @@
 * Edit config file
 ```
 npm install
-
 ```
